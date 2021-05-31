@@ -1,0 +1,134 @@
+■ IT
+IT...（Information Technology、情報技術） コンピュータとネットワークを利用した技術の総称
+ICT...（Information and Communication Technology＝情報通信科学  コミュニケーション」という言葉が入っているため「個人からの情報発信」を強調するニュアンスがある
+IoT...(Internet of Things  モノのインターネット) 従来インターネットに接続されていなかった様々なモノが、ネットワークに接続され相互に情報交換をする仕組み
+
+■ OS
+OS...オペレーティング・システム (Operating System) システム全体を管理し、さまざまなアプリケーションソフトを動かすための最も基本的なソフトウェア
+Windows Microsoft社製OS。GUI
+macOS (Mac OS X)...Apple社製OS。GUI
+UNIX...米AT&T社のベル研究所製OS。近年はUNIXそのものが使われることは殆どなく、UNIXシステムをベースとしUNIX系OSとして利用されている。
+Linux...Unix系OS。主にサーバー用として使われることが多い。
+
+■ 言語・環境
+
+マークアップ／フロントエンド
+HTML...マークアップ言語。ページの要素や構造を指定するための言語。
+CSS...スタイルシート。HTMLで作った要素を装飾するスタイルを指定する言語。
+JavaScript...動的にコンテンツを更新、管理できるスクリプト言語。
+jQuery...JavaScriptライブラリ。ウェブブラウザ用のJavaScriptコードをより容易に記述できるようにするために設計された。
+Java SE...Java Platform, Standard Editionの略称。標準API、基礎となる標準的な機能をまとめたもの。
+
+サーバーサイド
+.NET（C#, VB）
+Java...オブジェクト指向のプログラミング言語。プラットフォームに依存しない為、OSに関係なく動作させることができる。
+Java SE...Java Platform, Standard Editionの略称。標準API、基礎となる標準的な機能をまとめたもの。
+Java EE（Jakarta EE）...Java 2 Platform, Enterprise Editionの略称。前述のSEに、企業用途(Enterprise)のサーバー用の機能が追加されたAPI。
+Perl...歴史あるスクリプト言語。テキスト処理が優れていが、ウェブ・アプリケーション、システム管理等にも用いられる。
+PHP...サーバーサイドのスクリプト言語。HTMLやCSSを組み合わせ。動的にWebページを生成することができる。
+Ruby...オブジェクト指向スクリプト言語。Ruby on RailsというWebアプリケーションフレームワークを使うことができる。
+
+■ サーバーソフト
+Apache
+nginx
+IIS
+
+■ SQL
+SQL
+DB2
+MySQL
+Maria DB
+Oracle DB
+PostgreSQL
+SQLite
+SQL Server
+CRUD
+トランザクション
+コミット
+ロールバック
+排他制御（排他ロック）
+楽観ロック
+悲観ロック
+実行計画
+チューニング
+パフォーマンス
+スロークエリ
+クエリログ
+IDE（統合開発環境）
+Eclipse
+NetBeans
+SpringToolSuite
+DBツール
+A5:SQL Mk-2
+pgAdmin
+DBeaver
+MySQL Workbench
+Sequel Pro
+TeamSQL
+■ 肩書
+PM
+PL
+PG（PE）
+SE
+デザイナー
+エンジニア
+フロントエンド・エンジニア
+サーバーサイド・エンジニア
+バックエンド・エンジニア
+■ UI（ユーザーインターフェース）
+UI
+CUI
+GUI
+■ ファイル／ディレクトリ
+ファイル
+拡張子
+ディレクトリ
+ルート・ディレクトリ
+カレント・ディレクトリ
+パス
+絶対パス
+相対パス
+■ ネットワーク
+LAN
+WAN
+クライアント
+サーバー
+■ 各種プロトコル
+HTTP
+FTP
+HTTPS
+SSL
+SSH
+ポート、ポート番号
+HTTP、FTP、SSHの各ポート番号
+ファイアウォール
+TCP
+■ IPアドレス
+IPアドレス
+グローバルIPアドレス
+プライベートIPアドレス
+■ ドメイン
+ドメイン
+DNS
+VPN
+ブリッジ
+プロキシサーバー
+■ 電子メール
+SMTP
+POP
+IMAP
+■ セッションとクッキー
+セッション
+クッキー
+キャッシュ
+■ DB（データベース）について
+インデックス
+■ テストについて
+フロー
+■ チケット管理ツール
+タスク
+■ バージョン管理
+Git
+SVN
+デグレ
+マージツール
