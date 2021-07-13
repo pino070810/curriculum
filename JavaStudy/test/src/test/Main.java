@@ -1,32 +1,12 @@
-package test;
-
-//utilパッケージのArrayListクラスをimport
-import java.util.ArrayList;
-//utilパッケージのListクラスをimport
-import java.util.List;
+import java.util.Calendar;
 
 public class Main {
 
-  public static void main(String args[]) {
-      // LinkedListを使用する場合は以下のように書きます
-      // List<String> sampleList = new LinkedList<String>(); 
-      
-      // パターン1
-      List<String> sampleListA = new ArrayList<String>();
-      sampleListA.add("ABC");
-      sampleListA.add("DEF");
-
-      // パターン2
-      sampleListA = new ArrayList<String>() {
-          {
-              add("ABC");
-              add("DEF");
-              add("123");         }
-      };
-
-      // リストに格納した全要素を順番に出力
-      for (int i = 0; i < sampleListA.size(); i++) {
-          System.out.println(sampleListA.get(i));
-      }
-  }
+    public static void main(String[] args) {
+        // 今日が2020/06/27の場合の年月日を表示
+        Calendar cal = Calendar.getInstance();
+        System.out.println(cal.get(Calendar.YEAR));
+        System.out.println(cal.get(Calendar.MONTH) + 1);
+        System.out.println(cal.get(Calendar.DATE));
+    }
 }
