@@ -22,10 +22,10 @@ public class Study {
 
         // ① 定数を全て使って、String型のListを記述してください。
     	LinkedHashMap<Integer, String> shohinList = new LinkedHashMap<Integer, String>();
-    	shohinList.put(0, "バナナ");
-    	shohinList.put(1, "牛乳");
-    	shohinList.put(2, "豚肉");
-    	shohinList.put(3, "コロッケ");
+    	shohinList.put(0, SHOP_SHOHIN_00);
+    	shohinList.put(1, SHOP_SHOHIN_01);
+    	shohinList.put(2, SHOP_SHOHIN_02);
+    	shohinList.put(3, SHOP_SHOHIN_03);
 
 
 
