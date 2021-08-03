@@ -24,8 +24,9 @@ public class Person {
     public void printStatus() {
     	System.out.println(this.name);
     	System.out.println(this.age);
-    String a = null; 
-    
-     System.out.println(this.color);
+    if (this.color.equals(null)) {
+	}else {
+		System.out.println(this.color);
+	}
      }
  }

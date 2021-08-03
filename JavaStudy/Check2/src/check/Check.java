@@ -4,7 +4,7 @@ import constants.Constants;
 
 public class Check {
 	private  static String firstName = "Hino";
-	private  static String lastName = "Takkumi";
+	private  static String lastName = "Takumi";
 	
 
 	private static void printName(String firstName,String lastName) {
