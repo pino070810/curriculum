@@ -1,0 +1,34 @@
+/*ウィンドウ幅が最大767pxまでの場合に適用(タブレット用)*/
+@media screen and (max-width: 767px) {
+    .header{
+        width: 300px;
+    }
+
+    .left{
+        width: 100px];
+    }
+
+    .center{
+        width: 125px;
+    }
+
+    .center-right{
+        width: 75px;
+    }
+
+    .low{
+        width: 200px;
+    }
+
+    .footer{
+        width: 300px;
+    }
+}
+
+/*ウィンドウ幅が最大479pxまでの場合に適用(タブレット用)*/
+@media screen and (max-width: 479px) {
+    #wrapper{
+        width: 150px;
+        float: none;
+    }
+}
