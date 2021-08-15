@@ -13,7 +13,7 @@ public class Check {
 	}
 
 	public static void main(String[] args) {
-		
+		//クラス　変数名　＝　new コンストラクタ(引数);
 		Pet pet = new Pet(Constants.CHECK_CLASS_JAVA, Constants.CHECK_CLASS_HOGE);
 		RobotPet robotPet = new RobotPet(Constants.CHECK_CLASS_R2D2, Constants.CHECK_CLASS_LUKE);
 		
