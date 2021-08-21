@@ -1,3 +1,6 @@
+#wrapper{
+    margin: 0 auto;
+}
 .clearfix::after {
     content: "";
     display: block;
@@ -7,10 +10,6 @@
     width: 400px;
     height: 100px;
     background-color: #141f40;
-    margin: 0 auto;
-}
-.main{
-    margin: 0 auto;
 }
 .left{
     width: 150px;
@@ -51,5 +50,4 @@
     height: 100px;
     background-color:#d98d30;
     clear: left;
-    margin: 0 auto;
 }
