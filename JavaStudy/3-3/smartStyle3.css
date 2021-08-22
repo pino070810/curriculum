@@ -1,25 +1,30 @@
 @media screen and (max-width: 479px) {
-    #wrapper{
-        clear: both;
-    }
     .header-main{
         width: 200px;
-        height:auto
+        height: 200px;
+        clear: both;
     }
     .header-Foundation{
         width: 60px;
         height: 160px;
-        margin: auto;
+        margin: 20px 70px;
     }
-    .main{
+    .box-2{
+        margin: 0 10px;
+    }
+    .left{
         width: 200px;
-        height:auto
+        height: 100px;
+    }
+    .right{
+        width: 200px;
+        height: 210px;
+        clear: both;
     }
     ul{
         margin: 20px 30px;
     }
     .footer{
         width: 200px;
-        height:auto
     }
 }
