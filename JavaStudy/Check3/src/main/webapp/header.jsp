@@ -14,6 +14,7 @@
         login
         </div>
         <div class=date>
+       
         <%@ page import="java.util.*,java.text.SimpleDateFormat"%>
         <% Date date = new Date();
               SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd");
