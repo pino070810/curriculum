@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\pino0\Documents\GitHub\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\30975185.index
+\Check3\src\main\java
+C:\Users\pino0\Documents\GitHub\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\308764070.index
+\Check3\src\main\java
+C:\Users\pino0\Documents\GitHub\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2851484863.index
+\Check3.1\src\main\java

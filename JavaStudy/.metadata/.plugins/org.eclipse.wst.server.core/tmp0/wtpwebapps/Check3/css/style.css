@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/*header*/
+.header{
+	background-color: gray;
+}
+.login{
+    padding: 10px;
+    color: white;
+    display: inline-block;
+}
+.date{
+	padding: 10px;
+    font-size: 10px;
+    display: inline-block;
+}
+
+/*footer*/
+.footer{
+	background-color: gray;
+}
+.hoge{
+	display: inline-block;
+    padding: 10px;
+    color: white;
+}
+/*Test.jsp*/
+table{
+	padding-top: 50px;
+    padding-bottom: 50px;
+}
+.a{
+	border: solid 1px gray;
+	width: 150px;
+}
+.b{
+	border: solid 1px gray;
+	width: 150px;
+}

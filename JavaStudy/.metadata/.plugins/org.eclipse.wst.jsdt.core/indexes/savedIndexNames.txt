@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\pino0\Documents\GitHub\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2351783662.index
+2429342252.index
+896799303.index
+150061334.index
+3683782992.index
+640137665.index
