@@ -1,0 +1,16 @@
+package check;
+
+public class Check {
+
+    public static void main(String[] args) {
+        // TODO 自動生成されたメソッド・スタブ
+        private static String firstName = "Hino";
+        private static String lastName = "Takumi";
+        
+        private static  printName (String firstName,String lastName) {
+            System.out.println(firstName + lastName);
+        }
+
+    }
+
+}
